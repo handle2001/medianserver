@@ -20,7 +20,7 @@ Returns:
 }
 ```
 
-## Download
+## Download:
 
 You can clone this repository and run medianserver locally or obtain the docker image by running:
 
