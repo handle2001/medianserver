@@ -3,6 +3,14 @@
 ## Overview:
 Medianserver performs a simple task: it accepts a named set of integers in JSON format and returns their median value.
 
+## Download:
+
+You can clone this repository and run medianserver locally or obtain the docker image by running:
+
+```
+docker pull flagrantist/medianserver
+```
+
 ## Examples:
 
 ```
@@ -18,12 +26,4 @@ Returns:
     92
   ]
 }
-```
-
-## Download:
-
-You can clone this repository and run medianserver locally or obtain the docker image by running:
-
-```
-docker pull flagrantist/medianserver
 ```
