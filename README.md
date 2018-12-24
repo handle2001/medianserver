@@ -19,3 +19,11 @@ Returns:
   ]
 }
 ```
+
+## Download
+
+You can clone this repository and run medianserver locally or obtain the docker image by running:
+
+```
+docker pull flagrantist/medianserver:1.0.0
+```
